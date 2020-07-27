@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* Header Start */
+
+/* Navbar Start */
+#papanavbar .img img{
+    width: 250px;
+     height:80px;
+     cursor: pointer;
+}
+#papanavbar .services a{
+    color: white;
+    font-size: 21px;
+    font-weight: bold;
+    margin-left: 3px;
+    cursor: pointer;
+    font-family: "Open Sans Condensed", Arial, sans-serif;
+}
+#papanavbar .services a:hover{
+    color: brown;
+    transition: 0.5s;
+}
+
+#papanavbar .login{
+    display: inline-block;
+}
+#papanavbar .login span{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Open Sans Condensed", Arial, sans-serif;
+}
+#papanavbar .login span:hover{
+    color: brown;
+    transition: 0.5s;
+}
+#papanavbar .basketicon{
+    display: inline-block;
+}
+#papanavbar .basketicon .fas{
+    display: inline-block;
+    color: black;
+    font-size: 29px;
+    margin-left: 25px;
+}
+#papanavbar .basketicon .fas:hover{
+    color: wheat;
+    transition: 0.5;
+}
+/* Navbar End */
+
+/* Header End */
+
+
