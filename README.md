@@ -1,2 +1,2 @@
 # Basket
-JavaScriptden istifade edilerk,Pizza satish sehifesinin,Basketi yazilmishdir.
+JavaScriptden istifade edilerek,Pizza satish sehifesinin,Basketi yazilmishdir.
